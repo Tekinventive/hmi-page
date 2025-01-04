@@ -1,2 +1,2 @@
-# hmi-page
-HMI page
+# HMI Pro
+www.hmi-pro.com
